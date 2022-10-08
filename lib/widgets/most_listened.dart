@@ -16,7 +16,7 @@ class _MostListenedState extends State<MostListened> {
       // width: 135,
       // height: 190,
       decoration: BoxDecoration(borderRadius: BorderRadius.circular(10)),
-      margin: EdgeInsets.only(right: 14, top: 20),
+      margin: EdgeInsets.only(right: 15, top: 20),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
